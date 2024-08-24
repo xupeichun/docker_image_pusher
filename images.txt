@@ -1,2 +1,3 @@
+cooderl/wewe-rss-sqlite:latest
 ykumar13/centos9:latest
 okteto/golang:1.21
