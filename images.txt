@@ -1,4 +1,6 @@
 nginx
+redis
+kafka
 mariadb
 wordpress
 chenzhiqiangcto/centos7.6
