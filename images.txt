@@ -1,6 +1,4 @@
 nginx
-redis
-kafka
 mariadb
 wordpress
 #支持私库
