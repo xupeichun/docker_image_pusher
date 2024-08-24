@@ -1,5 +1,5 @@
 nginx
-centos
+centos9
 mariadb
 wordpress
 #支持私库
