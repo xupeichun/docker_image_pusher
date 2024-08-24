@@ -1,6 +1,5 @@
 nginx
-a79520/centos7.9:latest
-ykumar13/centos9
+centos
 mariadb
 wordpress
 #支持私库
